@@ -3,18 +3,22 @@ Welcome to embrace the chaos. This is the space for the talk "Layperson walk int
 
 
 - [Organizations](#Organizations)
+- [Books](#Books)
 - [Courses](#Courses)
-- [Mellow Initiatives](#Mellow-Initiatives)
 - [Tools](#Tools)
 - [Talks](#Talks)
+- [Mellow Initiatives](#Mellow-Initiatives)
 - [Forums](#Forums)
 - [Fun](#Fun)
 
 
- 
 ## Organizations
 - [Open Geospatial Foundation](https://www.osgeo.org/) - The organization.
 - [Open Geo Hub](https://opengeohub.org/) - 
+
+## Books
+- [Geocomputation with R](https://r.geocompx.org/)
+- [Spatial Data Science with R](https://r-spatial.org/book/)
 
 ## Courses
 
