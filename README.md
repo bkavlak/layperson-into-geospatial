@@ -1,5 +1,5 @@
 # Layperson introduction to geospatial
-Welcome to embrace the chaos. This is the space for the talk "Layperson walk into open geospatial clergy" at Mostar, FOSS4GE 2025. The recording will be here hopefully. If you are new here, you can find these links useful. Start somewhere.
+Welcome to embrace the chaos. This is the space for the talk "Layperson walk into open geospatial clergy" at Mostar, FOSS4GE 2025. The recording will be here hopefully. If you are new here, you can find these links useful. Talk not only to AI but also with yourself and start somewhere.
 
 
 - [Organizations](#Organizations)
