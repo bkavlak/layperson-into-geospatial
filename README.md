@@ -1,4 +1,4 @@
-# Layperson introduction to geospatial
+# Layperson introduction to free and open geospatial
 *I'll be close to the finish at some point in life, bear with me.*
 
 Welcome to embrace the chaos. This is the space for the talk "Layperson walk into open geospatial clergy" at Mostar, FOSS4GE 2025. The recording will be here hopefully. If you are new to geospatial, you may find here useful. If not, you may ask questions or complain randomly on issues or dicussions. Talk not only to AI but also with yourself and start somewhere.
@@ -60,6 +60,7 @@ I'm lazy to explain this now, will add.
 
 ### Mellow Initiatives
 
+- [OsGeoLive](https://live.osgeo.org/en/index.html) - You can see the free tech stack here.
 - [Open Geospatial Solutions](https://github.com/opengeos) - You should experience Qiusheng Wu.
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
