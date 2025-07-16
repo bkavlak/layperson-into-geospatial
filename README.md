@@ -3,18 +3,14 @@
 
 Welcome to embrace the chaos. This is the space for the talk "Layperson walk into open geospatial clergy" at Mostar, FOSS4GE 2025. The recording will be here hopefully. If you are new to geospatial, you may find here useful. If not, you may ask questions or complain randomly on issues or dicussions. Talk not only to AI but also with yourself and start somewhere.
 
-## Chapter 0
+## Introduction
 - [What is this mystical geospatial?](#What-are-these-organizations?)
 - [What are these organizations?](#What-are-these-organizations?)
-- [Who are these people?](#Communities)
-- [What are they doing?](#)
+- [Who are these people?](#Who-are-these-people?)
+- [What are they doing?](#What-are-they-doing?)
 
 ## What is this mystical geospatial?
 I'm lazy to explain this now, will add.
-
-## Who are these people?
-I'm lazy to explain this now, will add.
-
 ## What are these organizations?
 I'm lazy to explain this now, will add.
 
@@ -22,6 +18,11 @@ I'm lazy to explain this now, will add.
 - [OpenStreetMap Foundation](https://osmfoundation.org/) - You'll probably think there should exist something on the map, and it's already there in OSM.
 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) - A separate organization focus on humanitarian issues.
 - [Open Geo Hub](https://opengeohub.org/) - Very nice summer school programs which are also uploaded freely.
+
+## Who are these people?
+I'm lazy to explain this now, will add.
+
+## What are they doing?
 
 ## Material dump
 
