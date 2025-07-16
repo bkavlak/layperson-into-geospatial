@@ -3,6 +3,10 @@
 
 Welcome to embrace the chaos. This is the space for the talk "Layperson walk into open geospatial clergy" at Mostar, FOSS4GE 2025. The recording will be here hopefully. If you are new to geospatial, you may find here useful. If not, you may ask questions or complain randomly on issues or dicussions. Talk not only to AI but also with yourself and start somewhere.
 
+#### Content
+- [Introduction](#Introduction)
+- [Material Dump](#Material-Dump)
+
 ## Introduction
 - [What is this mystical geospatial?](#What-are-these-organizations?)
 - [What are these organizations?](#What-are-these-organizations?)
@@ -24,7 +28,7 @@ I'm lazy to explain this now, will add.
 
 ## What are they doing?
 
-## Material dump
+## Material Dump
 
 - [Books](#Books)
 - [Courses](#Courses)
