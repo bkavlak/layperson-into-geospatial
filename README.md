@@ -14,9 +14,10 @@ Welcome to embrace the chaos. This is the space for the talk "Layperson walk int
 - [What are they doing?](#What-are-they-doing?)
 
 ## What is this mystical geospatial?
-I'm lazy to explain this now, will add.
+I'm lazy to write this now, will add.
+
 ## What are these organizations?
-I'm lazy to explain this now, will add.
+I'm lazy to write this now, will add.
 
 - [Open Geospatial Foundation](https://www.osgeo.org/) - The organization. Many projects are organized under OsGeo.
 - [OpenStreetMap Foundation](https://osmfoundation.org/) - You'll probably think there should exist something on the map, and it's already there in OSM.
@@ -24,9 +25,10 @@ I'm lazy to explain this now, will add.
 - [Open Geo Hub](https://opengeohub.org/) - Very nice summer school programs which are also uploaded freely.
 
 ## Who are these people?
-I'm lazy to explain this now, will add.
+It is best to ask to them. I experience they are good people; however, it is a long discussion what the Good is. I observe them passionate on what they do, and they probably don't know why. They have ideas and questions in life, and they keep searching till they get burn out. They have specific opinions on how people should organize, behave, and do things in a way and they may all have different opinions. They discuss and sometimes decide on something.
 
 ## What are they doing?
+I'm lazy to write this now, will add.
 
 ## Material Dump
 
