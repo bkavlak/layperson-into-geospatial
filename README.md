@@ -1,4 +1,4 @@
-# Layperson Introduction to Free and Open Geospatial
+# Layperson Introduction to Free and Open Geospatial Clergy
 *I'll be close to the finish at some point in life, bear with me or not*
 
 Welcome to embrace the chaos. This is the space for the talk "Layperson walk into open geospatial clergy" at Mostar, FOSS4GE 2025. The recording will be here hopefully. If you are new to geospatial, you may find here useful. If not, you may ask questions or complain randomly on issues or dicussions. Talk not only to AI but also with yourself and start somewhere.
