@@ -105,6 +105,8 @@ Search everything with "GIS" keyword, you'll find something. Also search it as "
 
 #### Daily Usage
 - [OsmAnd](https://osmand.net/) or [Organic Maps](https://organicmaps.app/) - Popular apps you can interact with OpenStreetMap on your mobile.
+- [Every Door](https://every-door.app/) - To update OSM attributes quickly.
+- [Mapillary](https://www.mapillary.com/) - For street-level imagery. Suspicious because it is from Meta but good people work on it. 
 
 #### Software
 - [QGIS](https://qgis.org) & [QGIS Tutorial](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP)
@@ -124,6 +126,7 @@ Search everything with "GIS" keyword, you'll find something. Also search it as "
 
 ### Blogs
 
+- [What does Overture Maps mean for OpenStreetMap and the future of open source mapping?](https://blog.jawg.io/what-does-overture-maps-mean-for-openstreetmap-and-the-future-of-open-source-mapping/)
 - [Start your Geospatial Career](https://chrieke.medium.com/start-your-geospatial-career-8eaf1a94d047) - Great advices from my friend.
 - [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) - A Hmmmm, who is this guy :$ article.
 - [How to Change an Industry?](https://joemorrison.substack.com/p/how-to-change-an-industry) - Aaa okey, it is one of us just critically thinking.
@@ -131,7 +134,8 @@ Search everything with "GIS" keyword, you'll find something. Also search it as "
 ### Forums
 
 - [GIS StackExchange](https://gis.stackexchange.com/) – Ask reproducible questions and you’ll likely get good answers.  
-- [OpenStreetMap Community Forum](https://community.openstreetmap.org/)
+- [OpenStreetMap Community Forum](https://community.openstreetmap.org/) - Hot discussions you'll have.
+- [Humanitarian OpenStreetMap Team Slack Channel](https://slack.hotosm.org/) - If you are interested in humanitarian issues, which are quite related to you as you are human, join here.
 
 
 ### Fun
