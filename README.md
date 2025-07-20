@@ -1,5 +1,5 @@
 # Layperson Walk into the Free and Open Geospatial Clergy  
-*I may be close to the finish at some point in life — who knows.*
+*I may be close to a state where it is clearer at some point in life — who knows.*
 
 Welcome to the chaos, which is the father and the kid of the cosmos. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial, you might find this useful. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
 
@@ -47,14 +47,27 @@ You might find these useful to explore. You can also point them to GPT models �
 
 Contemplate these counsels — maybe while you're in the toilet.
 
+- [Organizations](#what-is-this-mystical-free-and-open-geospatial-clergy?)  
+- [Books](#Courses)
+- [Courses](#Courses)
+- [Mellow Initiatives](#Mellow-Initiatives)
+- [Tools](#Tools)
+- [Talks](#Talks)
+- [Blogs](#Blogs)
+- [Forums](#Forums)
+- [Fun](#Fun)
 
 ### Organizations
 
+#### Non-profit and Collaborative
 - [Open Geospatial Foundation](https://www.osgeo.org/) – The organization. Many open projects are hosted under OSGeo.  
 - [OpenStreetMap Foundation](https://osmfoundation.org/) – You probably think, "There must be a map," and yes, it’s already in OSM.  
-- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) – A separate organization focused on humanitarian work.  
+- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) – A separate organization focused on humanitarian work.
 - [Open Geo Hub](https://opengeohub.org/) – Great summer school programs, freely accessible.
 
+#### Governmental
+- [European Space Agency](https://www.esa.int/) - Enabled a huge market for the citizens of the Earth. Check out the [Copernicus Program](https://www.copernicus.eu/en).
+- [National Aeronautics and Space Administration](https://data.nasa.gov/) - They are not only into space but to the Earth as well.
 
 ### Books
 
@@ -81,21 +94,39 @@ Contemplate these counsels — maybe while you're in the toilet.
 ### Mellow Initiatives
 
 - [OsGeoLive](https://live.osgeo.org/en/index.html) – A showcase of the full free geospatial tech stack.  
-- [Open Geospatial Solutions](https://github.com/opengeos) – Experience Qiusheng Wu’s work.  
+- [Open Geospatial Solutions](https://github.com/opengeos) – Experience Qiusheng Wu’s work.
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)  
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)  
 - [Awesome GIS](https://github.com/sshuair/awesome-gis)
 
 
 ### Tools
+Search everything with "GIS" keyword, you'll find something. Also search it as "free and open", you'll be around here.
 
-- [QGIS](https://qgis.org) & [QGIS Tutorial](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_)
+#### Daily Usage
+- [OsmAnd](https://osmand.net/) or [Organic Maps](https://organicmaps.app/) - Popular apps you can interact with OpenStreetMap on your mobile.
+
+#### Software
+- [QGIS](https://qgis.org) & [QGIS Tutorial](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP)
+- [GDAL](https://gdal.org/en/stable/) - You also have it in QGIS - when you go advance, you'll need to get your hands dirty here.
+- [GRASS](https://grass.osgeo.org/) - You also have it in QGIS - when you wanna go really large scale, you'll need to get your hands dirty here.
+- [OTB](https://www.orfeo-toolbox.org/) - You can add it to QGIS like [here](https://www.youtube.com/watch?v=kPB1lqvZ1II).
+- [SAGA](https://www.youtube.com/watch?v=ceBOzPtQvms) - You can add it to QGIS like [here](https://www.youtube.com/watch?v=ceBOzPtQvms).
+- [SNAP](https://step.esa.int/main/download/snap-download/) - Useful for Sentinel1 SAR Processing.
+- [POSTGIS](https://postgis.net/) - The spatial database that is actually enough for everything but most efficient for the tables.
 
 
 ### Talks
 
-- [FOSS4G](https://www.youtube.com/@FOSS4G/playlists)
+- [FOSS4G](https://www.youtube.com/@FOSS4G/playlists) - Where the clergy worship on live.
+- [Cloud-Native Geospatial Forum](https://www.youtube.com/@cloudnativegeo/playlists)
 
+
+### Blogs
+
+- [Start your Geospatial Career](https://chrieke.medium.com/start-your-geospatial-career-8eaf1a94d047) - Great advices from my friend.
+- [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) - A Hmmmm, who is this guy :$ article.
+- [How to Change an Industry?](https://joemorrison.substack.com/p/how-to-change-an-industry) - Aaa okey, it is one of us just critically thinking.
 
 ### Forums
 
@@ -104,5 +135,6 @@ Contemplate these counsels — maybe while you're in the toilet.
 
 
 ### Fun
+There are many stuff around. I like these nowadays.
 
-- [Free Sound Map](https://fre)
+- [Free Sound Map](https://freesound.org/) & [source](https://github.com/ffont/sound-map-visualizer)
