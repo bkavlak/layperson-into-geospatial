@@ -58,6 +58,7 @@ Contemplate these counsels — maybe while you're in the toilet.
 - [OpenStreetMap Foundation](https://osmfoundation.org/) – You probably think, "There must be a map," and yes, it’s already in OSM.  
 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) – A separate organization focused on humanitarian work.
 - [Open Geo Hub](https://opengeohub.org/) – Great summer school programs, freely accessible.
+- [The Group on Earth Observations](https://earthobservations.org/) - Many subdivisions on use cases.
 
 #### Governmental
 - [European Space Agency](https://www.esa.int/) - Enabled a huge market for the citizens of the Earth. Check out the [Copernicus Program](https://www.copernicus.eu/en).
