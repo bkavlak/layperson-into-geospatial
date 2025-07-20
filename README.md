@@ -21,9 +21,9 @@ When the wind blows directly on your face or a whistle tickles your ears, do you
 
 Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not.
 
-I think it’s a *good* story if it’s *free* — as in *libre*, not just costless. Some people say everything comes with a cost. And cost is different from price. Go and talk to your local market vendors; they'll explain it better. This is the story of free people doing good stuff on the Earth, and it does not restrict it to other people on the Earth. Maybe because they are aware that we will die. While they are alive, they are the champion.
+I think it’s a *good* story if it’s *free* — as in *libre*, not just costless. Some people say everything comes with a cost. And cost is different from price. Go and talk to your local market vendors; they'll explain it better. This is the story of free people doing good things on the Earth, and they do not restrict it to others on the Earth. Maybe because they are aware that we will die. While they are alive, they are the champion.
 
-The clergy have helped me a great deal during my self-learning process, and they continue to do so.
+The clergy have helped me greatly during my self-learning process, and they continue to do so.
 
 ## Who are these free people?
 
@@ -33,7 +33,7 @@ As far as I can tell, they’re human. It’s not just about software, but explo
 
 ## Where to start?
 
-If you want to get involved in the community, it's relatively easy. Listen to what they say and be kind.
+If you want to get involved in the community, it's relatively easy. Read and listen to what they say and try to be a nice person.
 
 ## Material Dump
 
