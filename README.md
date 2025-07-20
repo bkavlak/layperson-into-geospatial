@@ -1,7 +1,7 @@
 # Layperson Walk into the Free and Open Geospatial Clergy  
 *I may be close to a state where it is clearer at some point in life — who knows.*
 
-Welcome to the chaos, which is the father and the kid of the cosmos. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial, you might find this useful. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
+Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry, this is not another tech-comic book. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, you may find this information useful. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
 
 #### Contents
 - [Introduction](#introduction)
@@ -22,28 +22,23 @@ When the wind blows directly on your face or a whistle tickles your ears, do you
 
 Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not.
 
-I think it’s a *good* story if it’s *free* — as in *libre*, not just costless. Some people say everything comes with a cost. And cost is different from price. Go and talk to your local market vendors; they'll explain it better. This is the story of free people doing good stuff on the Earth and do not restrict it to other people on the Earth. Maybe because they are aware that we will die. While they are alive, they are the champion.
+I think it’s a *good* story if it’s *free* — as in *libre*, not just costless. Some people say everything comes with a cost. And cost is different from price. Go and talk to your local market vendors; they'll explain it better. This is the story of free people doing good stuff on the Earth, and it does not restrict it to other people on the Earth. Maybe because they are aware that we will die. While they are alive, they are the champion.
 
+The clergy have helped me a great deal during my self-learning process, and they continue to do so.
 
 ## Who are these free people?
 
-It’s best to ask them yourself. In my experience, they’re good people — though “good” is a long discussion. They’re passionate about what they do, often without knowing why. They have ideas and questions and keep searching until they burn out. They hold strong opinions about how people should organize, behave, and work — and often disagree with one another. They discuss, and sometimes they even decide things.
+It’s best to ask them yourself. In my experience, they’re good people, though “good” is a topic for a long discussion. They’re passionate about what they do, often without knowing why. They have ideas and questions and keep searching until they burn out. They hold strong opinions about how people should organize, behave, and work, and often disagree with one another. They discuss, and sometimes they even decide things.
 
 As far as I can tell, they’re human. It’s not just about software, but exploring [Free Software](https://en.wikipedia.org/wiki/Free_software) can help you understand. Freedom itself is a long story — for that, check the history of politics.
 
-## What are they doing?
-
-They take initiative — for different reasons. They’re not fans of copyright and share their work freely. They create things, teach others, start businesses to maintain and improve their tools — and they do it all freely. Some are lucky to get funded. Some work in their spare time. Some are supported by taxes, others by random donations. Some burn out and leave. Some get taken advantage of and stop being truly “free,” which most in the community dislike — childish games that lead us nowhere.
-
 ## Where to start?
 
-They say answers aren’t given — they’re taken. Start somewhere, ask around, and claim your path. If you begin by thinking from the [universal](https://en.wikipedia.org/wiki/Aristotle%27s_theory_of_universals) to the [particular](https://en.wikipedia.org/wiki/Particular), things might get easier.
-
-Our current system organize itself around subjects. When these systems grow, they might become states, mafias, or collective initiatives. When smaller, they form institutions, corporations, companies — or whatever term you use. It's all just groups of people in the end. Start with the collective initiativesto see the ideal story. Then look at the state and those who corrupt the state forming mafias — you’ll get the true story.
+If you want to get involved in the community, it's relatively easy. Listen to what they say and be kind.
 
 ## Material Dump
 
-You might find these useful to explore. You can also point them to GPT models — they might uncover something better with these. Monks suggest asking for references for everything you hear in this life. After that, it's up to luck or agency to make use of the information.
+You might find these useful to explore. You can also point them to GPT models — they might uncover something better with these. Monks suggest asking for references for everything you hear in this life. After that, it's up to luck or agency to utilize the information.
 
 Contemplate these counsels — maybe while you're in the toilet.
 
