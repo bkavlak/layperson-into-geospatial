@@ -1,5 +1,5 @@
-# Layperson introduction to Free and Open Geospatial
-*I'll be close to the finish at some point in life, bear with me.*
+# Layperson Introduction to Free and Open Geospatial
+*I'll be close to the finish at some point in life, bear with me or not*
 
 Welcome to embrace the chaos. This is the space for the talk "Layperson walk into open geospatial clergy" at Mostar, FOSS4GE 2025. The recording will be here hopefully. If you are new to geospatial, you may find here useful. If not, you may ask questions or complain randomly on issues or dicussions. Talk not only to AI but also with yourself and start somewhere.
 
@@ -8,30 +8,33 @@ Welcome to embrace the chaos. This is the space for the talk "Layperson walk int
 - [Material Dump](#Material-Dump)
 
 ## Introduction
-- [What is this mystical geospatial?](#What-are-these-organizations?)
-- [What are these organizations?](#What-are-these-organizations?)
-- [Who are these people?](#Who-are-these-people?)
+- [What is this mystical free geospatial?](#What-is-this-mystical-free-geospatial?)
+- [Who are these free people?](#Who-are-these-fere-people?)
 - [What are they doing?](#What-are-they-doing?)
+- [What to start?](#Where-to-start?)
 
-## What is this mystical geospatial?
-I'm lazy to write this now, will add.
+## What is this mystical free geospatial?
+When you feel a wind blows directly on your face or tickle a whistle in your ears, do you know what has just happened? The Earth rotates on its axis and things get shine over the turns. The leaves may have some idea on what is going on or maybe the clouds can spare you a soft mattress on them to tell the tales of the myths of this universe. Some people will tell you some stories and tricks, the other may listen to them or add further. Most of them do not even listened to them but many will not stop telling. Geospatial is maybe another story about the things happening, maybe true and maybe not.
 
-## What are these organizations?
-I'm lazy to write this now, will add.
+I find it as a Good story if it is Free, meaning Libre instead of costless. Some people say on this Earth, there is always a cost. The cost is also different than price. Go around and talk with your local business people in the street market, they will explain it you. 
 
-- [Open Geospatial Foundation](https://www.osgeo.org/) - The organization. Many projects are organized under OsGeo.
-- [OpenStreetMap Foundation](https://osmfoundation.org/) - You'll probably think there should exist something on the map, and it's already there in OSM.
-- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) - A separate organization focus on humanitarian issues.
-- [Open Geo Hub](https://opengeohub.org/) - Very nice summer school programs which are also uploaded freely.
-
-## Who are these people?
+## Who are these free people?
 It is best to ask to them. I experience they are good people; however, it is a long discussion what the Good is. I observe them passionate on what they do, and they probably don't know why. They have ideas and questions in life, and they keep searching till they get burn out. They have specific opinions on how people should organize, behave, and do things in a way and they may all have different opinions. They discuss and sometimes decide on something.
 
+As far as I understand, they are human. It is not only about software but you can find [Free Software](https://en.wikipedia.org/wiki/Free_software) useful to have an overall understanding. Freedom is a long story to tell here, check some history of politics. 
+
 ## What are they doing?
-I'm lazy to write this now, will add.
+They take initiative to start something for different reasons. They don’t like copyrights much and share what they do freely. They do things, educate people about what they do, start businesses to maintain and improve what they do, and they do it freely. Some of them are lucky to be funded, some do it in their free time. Some are funded by taxes, some by random people, and some wanted to be. Some gets exhausted and leaves, some takes advantage of these people and suddenly cease to be free which most of them do not like such childish plays that do not lead all of us anywhere.
+
+## Where to start?
+
+They say answers are not given, they are taken. Start somewhere, ask around, and take it. If you start thinking from [universal](https://en.wikipedia.org/wiki/Aristotle%27s_theory_of_universals) to [particular](https://en.wikipedia.org/wiki/Particular), things will get easier. The latest version of our human system organize around subjects. As the form of organization gets larger; sometimes it becomes states, sometime mafia, and sometime together. Smaller it gets, what they call, institution, corporation, company, and I dunno what you call. Bunch of people at the end; however, if you start from the institutions funded by the state, you can see the ideal story. Then you check the ones corrupt the state and forms a mafia, you learn the true story.
 
 ## Material Dump
 
+You may find these useful to scan. If you point these things to GPT models, it may find things better for you. The monks suggest to ask for reference about everything you heard in this life. Then it is your luck or agency interfere and make use of information. Thinker about these sentences in the toilette.
+
+- [Organizations](#Organizations)
 - [Books](#Books)
 - [Courses](#Courses)
 - [Tools](#Tools)
@@ -40,7 +43,12 @@ I'm lazy to write this now, will add.
 - [Fun](#Fun)
 
 
+### Organizations
 
+- [Open Geospatial Foundation](https://www.osgeo.org/) - The organization. Many projects are organized under OsGeo.
+- [OpenStreetMap Foundation](https://osmfoundation.org/) - You'll probably think there should exist something on the map, and it's already there in OSM.
+- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) - A separate organization focus on humanitarian issues.
+- [Open Geo Hub](https://opengeohub.org/) - Very nice summer school programs which are also uploaded freely.
 
 ### Books
 - [Spatial Data Science with R](https://r-spatial.org/book/) - Great introductions if you are a bit mathematical person.
