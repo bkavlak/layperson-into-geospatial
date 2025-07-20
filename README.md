@@ -1,7 +1,7 @@
 # Layperson Walk into the Free and Open Geospatial Clergy  
 *I may be close to a state where it is clearer at some point in life — who knows.*
 
-Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry, this is not another tech-comic book. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, you may find this information useful. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
+Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry, this is not another tech-comic book. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, this information may be useful to you. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
 
 #### Contents
 - [Introduction](#introduction)
@@ -12,7 +12,6 @@ Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry
 
 - [What is this mystical free and open geospatial clergy?](#what-is-this-mystical-free-and-open-geospatial-clergy?)  
 - [Who are these free people?](#who-are-these-free-people?)
-- [What are they doing?](#what-are-they-doing?)
 - [Where to start?](#where-to-start?)
 
 
