@@ -54,7 +54,8 @@ Contemplate these counsels — maybe while you're in the toilet.
 ### Organizations
 
 #### Non-profit and Collaborative
-- [Open Geospatial Foundation](https://www.osgeo.org/) – The organization. Many open projects are hosted under OSGeo.  
+- [Free Software Foundation](https://www.fsf.org/) - One of the pioneer community drived the history of computer science in general.
+- [Open Geospatial Foundation](https://www.osgeo.org/) – The organization. Many free and open projects are hosted under OSGeo.  
 - [OpenStreetMap Foundation](https://osmfoundation.org/) – You probably think, "There must be a map," and yes, it’s already in OSM.  
 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) – A separate organization focused on humanitarian work.
 - [Open Geo Hub](https://opengeohub.org/) – Great summer school programs, freely accessible.
