@@ -122,7 +122,8 @@ Search everything with "GIS" keyword, you'll find something. Also search it as "
 
 ### Blogs
 
-- [What does Overture Maps mean for OpenStreetMap and the future of open source mapping?](https://blog.jawg.io/what-does-overture-maps-mean-for-openstreetmap-and-the-future-of-open-source-mapping/)
+- [I won't let you pay me for my open source](https://world.hey.com/dhh/i-won-t-let-you-pay-me-for-my-open-source-d7cf4568) - The deep discussion.
+- [What does Overture Maps mean for OpenStreetMap and the future of open source mapping?](https://blog.jawg.io/what-does-overture-maps-mean-for-openstreetmap-and-the-future-of-open-source-mapping/) - Nice to be aware of these delicate lines between the free and open source differences.
 - [Start your Geospatial Career](https://chrieke.medium.com/start-your-geospatial-career-8eaf1a94d047) - Great advices from my friend.
 - [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) - A Hmmmm, who is this guy :$ article.
 - [How to Change an Industry?](https://joemorrison.substack.com/p/how-to-change-an-industry) - Aaa okey, it is one of us just critically thinking.
