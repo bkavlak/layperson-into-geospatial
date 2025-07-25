@@ -94,6 +94,7 @@ Contemplate these counsels — maybe while you're in the toilet.
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)  
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)  
 - [Awesome GIS](https://github.com/sshuair/awesome-gis)
+- [Geospatial Glossary](https://www.gov.uk/government/publications/geospatial-glossary/geospatial-glossary)
 
 
 ### Tools
