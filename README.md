@@ -19,21 +19,17 @@ Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry
 
 When the wind blows directly on your face or a whistle tickles your ears, do you know what just happened? The Earth rotates on its axis, and things shine as it turns. The leaves might have some idea, or maybe the clouds could lend you a soft mattress to tell the myths of the universe. Some people share stories and tricks; others listen or add to them. Many never even hear these stories, but some won’t stop telling them.
 
-Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not.
-
-I think it’s a *good* story if it’s *free* — as in *libre*, not just costless. Some people say everything comes with a cost. And cost is different from price. Go and talk to your local market vendors; they'll explain it better. This is the story of free people doing good things on the Earth, and they do not restrict it to others on the Earth. Maybe because they are aware that we will die. While they are alive, they are the champion.
-
-The clergy have helped me greatly during my self-learning process, and they continue to do so.
+Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not. The clergy have helped me greatly during my self-learning process, and they continue to do so.
 
 ## Who are these free people?
 
 It’s best to ask them yourself. In my experience, they’re good people, though “good” is a topic for a long discussion. They’re passionate about what they do, often without knowing why. They have ideas and questions and keep searching until they burn out. They hold strong opinions about how people should organize, behave, and work, and often disagree with one another. They discuss, and sometimes they even decide things.
 
-As far as I can tell, they’re human. It’s not just about software, but exploring [Free Software](https://en.wikipedia.org/wiki/Free_software) can help you understand. Freedom itself is a long story — for that, check the history of politics.
+As far as I can tell, they’re human. It’s not just about software, but exploring [Free Software](https://en.wikipedia.org/wiki/Free_software) can help you understand. Freedom itself is a long story — for that, maybe check the history of politics.
 
 ## Where to start?
 
-If you want to get involved in the community, it's relatively easy. Read and listen to what they say and try to be a nice person.
+If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. What actually motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience. I cannot find it for you, but I might be able to help.
 
 ## Material Dump
 
