@@ -1,11 +1,13 @@
 # Layperson Walk into the Free and Open Geospatial Clergy  
 *I may be close to a state where it is clearer at some point in life — who knows.*
 
-Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry, this is not another tech-comic book. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, this information may be useful to you. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
+Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry, this is not another tech-comic book. I'm also definitely not a native British guy here to satisfy you with unknown and broken words. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, this information may be useful to you. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
 
 #### Contents
 - [Introduction](#introduction)
+- [You Probably Don't Know](#you-probably-dont-know)
 - [Material Dump](#material-dump)
+- [More Chapters](#more-chapters)
 
 
 ## Introduction
@@ -19,17 +21,23 @@ Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry
 
 When the wind blows directly on your face or a whistle tickles your ears, do you know what just happened? The Earth rotates on its axis, and things shine as it turns. The leaves might have some idea, or maybe the clouds could lend you a soft mattress to tell the myths of the universe. Some people share stories and tricks; others listen or add to them. Many never even hear these stories, but some won’t stop telling them.
 
-Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not. The clergy have helped me greatly during my self-learning process, and they continue to do so.
+Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not. The clergy have helped me greatly during my self-learning process, and they continue to do so. I wanted to collect some materials along the way that helped me, and maybe will help you as well. I forgot to stress the word "Free" in the talk; looking back, it is a significant difference and should have been "Layperson walk into Free and Open Geospatial Clergy". Anyways, we live between the lines of the regrets and actualizations, ignorance and wisdom, so on and so forth. The talk was also just a talk. As I tried to stress in the talk, I'm an average person.
+
+People in the clergy, while being open, also helped me to be free. Free from the reality forcibly constructed around me. Since my childhood, whenever I got stuck in this life questioning myself, my thoughts, my being, my worth, and all other depressive stuff, I scrolled back to the internet and found people like me. At the time of my youth mantra of destructive thoughts, when I was struggling to find my way in this career hell (which I still struggle with), I connected to these people's materials and found many ways of living. Also, during my career hell, they keep showing up. They are really interesting people.
 
 ## Who are these free people?
 
 It’s best to ask them yourself. In my experience, they’re good people, though “good” is a topic for a long discussion. They’re passionate about what they do, often without knowing why. They have ideas and questions and keep searching until they burn out. They hold strong opinions about how people should organize, behave, and work, and often disagree with one another. They discuss, and sometimes they even decide things.
 
-As far as I can tell, they’re human. It’s not just about software, but exploring [Free Software](https://en.wikipedia.org/wiki/Free_software) can help you understand. Freedom itself is a long story — for that, maybe check the history of politics.
+As far as I can tell, they’re human. It’s not just the mystical geospatial, but exploring [Free Software](https://en.wikipedia.org/wiki/Free_software) can help you understand a bit spirit here. Freedom itself is a long story — for that, maybe check the history of politics, science, and for sure, philosophy. Also, psychology, mythology, anthropology, and, I don't know, economics? There was one more thing. It is a huge topic; I still think about it sometimes, randomly, in the toilet or during the shower. Ahh, and of course, geography.
 
 ## Where to start?
 
-If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. What actually motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience. I cannot find it for you, but I might be able to help.
+If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. You may also need motivation to build, which can be really hard. What actually motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience. I'm still searching for answers to understand why I do certain things. I'm not sure if these questions can be answered by the same person who is performing the action. I cannot find it for you, but I might be able to help.
+
+## You Probably Don't Know
+
+You probably don't know what a coordinate really means in this context. I assume you are familiar with Descartes' innovation of Cartesian coordinates and some geometric stuff. It is not very different here, but a bit different. You need to become familiar with concepts such as *Coordinate Reference Systems*, *Map Projections*, *Vector Data*, *Raster Data*, *Affine Transformation*, and the basics of *what GPS is*. It is not rocket science; just prioritize learning these fundamental concepts, which can be found in courses and many YouTube videos, such as [here](https://www.youtube.com/watch?v=D3tdW9l1690&t=652s&ab_channel=Numberphile).
 
 ## Material Dump
 
@@ -136,3 +144,8 @@ Search everything with "GIS" keyword, you'll find something. Also search it as "
 There are many stuff around. I like these nowadays.
 
 - [Free Sound Map](https://freesound.org/) & [source](https://github.com/ffont/sound-map-visualizer)
+
+
+## More Chapters
+
+There aren't more chapters.
