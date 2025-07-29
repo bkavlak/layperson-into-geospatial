@@ -1,5 +1,4 @@
-# Layperson Walk into the Free and Open Geospatial Clergy  
-*I may be close to a state where it is clearer at some point in life — who knows.*
+# Layperson Walk into the Free and Open Geospatial Clergy
 
 The last year of my university years was a horrible time. You need money; you studied business; you actually wanted to be an actor, why did you study business; you still have some dignity salted with ego so that you don't wanna get melted into a corporate; you think maybe academia is the way; you think who is gonna afford another investment for studying something nobody cares anymore and there are already millions "copy" of you out there; you search for something meaningful in life for yourself although you know very little about yourself; you really need money.
 
