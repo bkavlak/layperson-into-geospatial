@@ -1,7 +1,13 @@
 # Layperson Walk into the Free and Open Geospatial Clergy  
 *I may be close to a state where it is clearer at some point in life — who knows.*
 
-Welcome to the chaos, which is the father and the kid of the cosmos. Don't worry, this is not another tech-comic book. I'm also definitely not a native British guy here to satisfy you with unknown and broken words. This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, this information may be useful to you. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
+The last year of my university years was a horrible time. You need money; you studied business; you actually wanted to be an actor, why did you study business; you still have some dignity salted with ego so that you don't wanna get melted into a corporate; you think maybe academia is the way; you think who is gonna afford another investment for studying something nobody cares anymore and there are already millions "copy" of you out there; you search for something meaningful in life for yourself although you know very little about yourself; you really need money.
+
+Amidst this chaotic early youth mantra, I find myself in an agri-tech startup in İstanbul where I can at least afford to live. After my first dearest task of researching marijuana legalization, somehow, I ended up researching how to classify satellite imagery to detect tomato fields. An economist guy from my university, Sinan, showed me how he visualizes an NDVI band literally in Excel by adjusting cells and giving them numbers and colors accordingly. Luckily, we got Betül doing her masters in geomatics at that time, and she said: "Look kids..." while we were looking with an empty face and started to explain the business here.
+
+After getting the basics from Betül, I did what I've been doing since I was 7 years old: I started to surf the internet alone. My walk started into this clergy of people sharing everything they know with me. Contacted many people on Linkedin, watched Youtube videos, read blogs, never understood PyQGIS, hired by a guy among those people and moved to Berlin, where I started acting after years, attended FOSS4Gs, saw many in-person that I was stalking online, met randomly with people from Yer Çizenler & HOT during a disaster relief, felt some meaning, felt in my nerves deeply that I'm not alone in this shapeless Earth, at least not always.
+
+This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, this information may be useful to you. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
 
 #### Contents
 - [Introduction](#introduction)
@@ -33,11 +39,16 @@ As far as I can tell, they’re human. It’s not just the mystical geospatial, 
 
 ## Where to start?
 
-If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. You may also need motivation to build, which can be really hard. What actually motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience. I'm still searching for answers to understand why I do certain things. I'm not sure if these questions can be answered by the same person who is performing the action. I cannot find it for you, but I might be able to help.
+If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. You may also need motivation to build, which can be really hard. What actually motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience.
+
+I'm still searching for answers to understand why I do certain things. I'm not sure if these questions can be answered by the same person who is performing the action. When I analyzed myself, I observed that the main motivation that carried me to build a character around certain things was geospatial at some point in my life. So, related to our topic, I mostly searched to become one of the mellow people out there sharing stuff for free and freely. So, I started just by imitating.
 
 ## You Probably Don't Know
 
 You probably don't know what a coordinate really means in this context. I assume you are familiar with Descartes' innovation of Cartesian coordinates and some geometric stuff. It is not very different here, but a bit different. You need to become familiar with concepts such as *Coordinate Reference Systems*, *Map Projections*, *Vector Data*, *Raster Data*, *Affine Transformation*, and the basics of *what GPS is*. It is not rocket science; just prioritize learning these fundamental concepts, which can be found in courses and many YouTube videos, such as [here](https://www.youtube.com/watch?v=D3tdW9l1690&t=652s&ab_channel=Numberphile).
+
+For about 6 months, I thought production code was something related to the factory as I studied business and some operational domains. You probably don't know many concepts and words, or at worst, that you even misinterpret them. It is really wise to check a word, providing the context you are using, such as GIS, to make your life easier in the research or learning process. Knowing that you don't know is the cure, as Socrates taught, as Plato reported. It is really useful.
+
 
 ## Material Dump
 
