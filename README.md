@@ -24,29 +24,35 @@ This is the space for the talk **“A Layperson Walks into Open Geospatial Clerg
 
 ## What is this mystical free and open geospatial clergy?
 
-When the wind blows directly on your face or a whistle tickles your ears, do you know what just happened? The Earth rotates on its axis, and things shine as it turns. The leaves might have some idea, or maybe the clouds could lend you a soft mattress to tell the myths of the universe. Some people share stories and tricks; others listen or add to them. Many never even hear these stories, but some won’t stop telling them.
+When the wind blows directly on your face or a whistle tickles your ears, do you know what just happened? The Earth rotates on its axis, and things shine as it turns. The leaves might have some idea, or the clouds might lend you a soft mattress to tell the myths of the universe. Some people share stories and tricks; others listen or add to them. Many never even hear these stories, but some won’t stop telling them.
 
 Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not. The clergy have helped me greatly during my self-learning process, and they continue to do so. I wanted to collect some materials along the way that helped me, and maybe will help you as well. I forgot to stress the word "Free" in the talk; looking back, it is a significant difference and should have been "Layperson walk into Free and Open Geospatial Clergy". Anyways, we live between the lines of the regrets and actualizations, ignorance and wisdom, so on and so forth. The talk was also just a talk. As I tried to stress in the talk, I'm an average person.
 
-People in the clergy, while being open, also helped me to be free. Free from the reality forcibly constructed around me. Since my childhood, whenever I got stuck in this life questioning myself, my thoughts, my being, my worth, and all other depressive stuff, I scrolled back to the internet and found people like me. At the time of my youth mantra of destructive thoughts, when I was struggling to find my way in this career hell (which I still struggle with), I connected to these people's materials and found many ways of living. Also, during my career hell, they keep showing up. They are really interesting people.
+People in the clergy, while being open, also helped me to be free. Free from the reality forcibly constructed around me. Since my childhood, whenever I got stuck in this life questioning myself, my thoughts, my being, my worth, and all other depressive stuff, I scrolled back to the internet and found people like me. I've been scrolling through internet subcultures: forums, underground rap recordings, collaborative hypertext dictionaries specific to Türkiye such as [inci](https://en.wikipedia.org/wiki/%C4%B0nci_S%C3%B6zl%C3%BCk) or [eksi](https://en.wikipedia.org/wiki/Ek%C5%9Fi_S%C3%B6zl%C3%BCk), and of course, later Twitter and Youtube when they were not filled with bullshits. 
+
+At the time of my youth mantra of destructive thoughts and worries, when I was struggling to find my way in this career hell after the graduation (which I still struggle with), I connected with these people's materials and discovered many different ways of living. Also, during my career hell, they keep showing up. They are really interesting people.
 
 ## Who are these free people?
 
-It’s best to ask them yourself. In my experience, they’re good people, though “good” is a topic for a long discussion. They’re passionate about what they do, often without knowing why. They have ideas and questions and keep searching until they burn out. They hold strong opinions about how people should organize, behave, and work, and often disagree with one another. They discuss, and sometimes they even decide things.
+It’s best to ask them yourself. In my experience, they’re good people, though “good” is a topic for a lengthy discussion. They’re passionate about what they do, often without knowing why. They have ideas and questions and keep searching until they burn out. They hold strong opinions about how people should organize, behave, and work, and often disagree with one another. They discuss, and sometimes they even decide things.
 
-As far as I can tell, they’re human. It’s not just the mystical geospatial, but exploring [Free Software](https://en.wikipedia.org/wiki/Free_software) can help you understand a bit spirit here. Freedom itself is a long story — for that, maybe check the history of politics, science, and for sure, philosophy. Also, psychology, mythology, anthropology, and, I don't know, economics? There was one more thing. It is a huge topic; I still think about it sometimes, randomly, in the toilet or during the shower. Ahh, and of course, geography.
+As far as I can tell, they’re human. Not only the mystical geospatial, but exploring movements like [Free Software](https://en.wikipedia.org/wiki/Free_software) can help you understand a bit of the spirit here. Freedom itself is a long story — for that, maybe check the history of politics, science, and for sure, philosophy. Also, psychology, mythology, anthropology, and, I don't know, economics? There was one more thing. It is a huge topic; I think about it sometimes, randomly, in the toilet or during the shower. Ah, and of course, geography.
 
 ## Where to start?
 
-If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. You may also need motivation to build, which can be really hard. What actually motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience.
+If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. You may also need motivation to build, which can be hard. What motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience.
 
-I'm still searching for answers to understand why I do certain things. I'm not sure if these questions can be answered by the same person who is performing the action. When I analyzed myself, I observed that the main motivation that carried me to build a character around certain things, and it was geospatial at that point in my life. So, related to our topic, I mostly searched to become one of the mellow people out there sharing stuff for free and freely. So, I started just by imitating.
+I'm still searching for answers to understand why I do certain things. I'm not sure if these questions can be answered by the same person who is acting. When I analyzed myself, I observed that the main motivation that carried me to build a character around certain things, and it was geospatial at that point in my life. Related to our topic here, I mostly searched to become one of the mellow people out there sharing stuff for free and freely. So, I started just by imitating.
+
+When we talk about learning, we are primarily referring to reaching a point where we have acquired the knowledge we were trying to learn. If we wanna solve the learning puzzle with questions: "How to learn?", "Where to start learning?", "What to learn?" pondering on the question of "What is knowledge?" is interestingly useful. Addressing questions like "What type of knowledge am I trying to get here?" was helpful to me. I found that the cognitive science community has nice answers, such as [Four Kinds of Knowing](https://www.youtube.com/watch?v=TrW3DOIkP78&ab_channel=JohnVervaeke).
+
+I have always followed the general advice from thousands of years: never assume that you have finished something in life.
 
 ## You Probably Don't Know
 
-You probably don't know what a coordinate really means in this context. I assume you are familiar with Descartes' innovation of Cartesian coordinates and some geometric stuff. It is not very different here, but a bit different. You need to become familiar with concepts such as *Coordinate Reference Systems*, *Map Projections*, *Vector Data*, *Raster Data*, *Affine Transformation*, and the basics of *what GPS is*. It is not rocket science; just prioritize learning these fundamental concepts, which can be found in courses and many YouTube videos, such as [here](https://www.youtube.com/watch?v=D3tdW9l1690&t=652s&ab_channel=Numberphile).
+If you are not familiar with computer science basics, you may get many concepts wrong. For about 6 months, I thought production code was something related to the factory as I studied business and some operational domains. You probably don't know many concepts and words, or at worst, that you even misinterpret them. It is really wise to check a word, providing the context you are using, such as GIS, to make your research or learning process easier. Knowing that you don't know is the cure, as Socrates taught, as Plato reported. Materials with fundamentals helped me to understand what these people are referring to, both for computer science and geospatial topics.
 
-For about 6 months, I thought production code was something related to the factory as I studied business and some operational domains. You probably don't know many concepts and words, or at worst, that you even misinterpret them. It is really wise to check a word, providing the context you are using, such as GIS, to make your research or learning process easier. Knowing that you don't know is the cure, as Socrates taught, as Plato reported. It is really useful.
+You probably don't know what a coordinate really means in this context. I assume you are familiar with Descartes' innovation of Cartesian coordinates and some geometric stuff. It is not very different here, but a bit different. You need to become familiar with concepts such as *Coordinate Reference Systems*, *Map Projections*, *Vector Data*, *Raster Data*, *Affine Transformation*, and the basics of *what GPS is*. It is not rocket science; just prioritize learning these fundamental concepts, which can be found in courses and many YouTube videos, such as [here](https://www.youtube.com/watch?v=D3tdW9l1690&t=652s&ab_channel=Numberphile).
 
 
 ## Material Dump
@@ -141,8 +147,8 @@ Search everything with "GIS" keyword, you'll find something. Also search it as "
 - [I won't let you pay me for my open source](https://world.hey.com/dhh/i-won-t-let-you-pay-me-for-my-open-source-d7cf4568) - The deep discussion.
 - [What does Overture Maps mean for OpenStreetMap and the future of open source mapping?](https://blog.jawg.io/what-does-overture-maps-mean-for-openstreetmap-and-the-future-of-open-source-mapping/) - Nice to be aware of these delicate lines between the free and open source differences.
 - [Start your Geospatial Career](https://chrieke.medium.com/start-your-geospatial-career-8eaf1a94d047) - Great advices from my friend.
-- [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) - A Hmmmm, who is this guy :$ article.
-- [How to Change an Industry?](https://joemorrison.substack.com/p/how-to-change-an-industry) - Aaa okey, it is one of us just critically thinking.
+- [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) - A pessimistic view on the open source business model, which I don't agree with fully.
+- [How to Change an Industry?](https://joemorrison.substack.com/p/how-to-change-an-industry) - Aaa okay, it is one of us just critically thinking.
 
 ### Forums
 
@@ -152,11 +158,14 @@ Search everything with "GIS" keyword, you'll find something. Also search it as "
 
 
 ### Fun
-There are many stuff around. I like these nowadays.
+There is a lot of stuff around. I like these nowadays.
 
+- [Geo Guess](https://openguessr.com/) & [source](https://github.com/GeoGuess) 
 - [Free Sound Map](https://freesound.org/) & [source](https://github.com/ffont/sound-map-visualizer)
 
 
 ## More Chapters
 
 There aren't more chapters.
+
+Made with 🫀 in Berlin. 
