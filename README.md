@@ -34,11 +34,11 @@ People in the clergy, while being open, also helped me to be free. Free from the
 
 At the time of my youth mantra of destructive thoughts and worries, when I was struggling to find my way in this career hell after graduation (which I still struggle with), I connected with these people's materials and discovered many different ways of living. Also, during my career hell, they keep showing up. They are really interesting people.
 
-## Who are these free people?
+## Who are these people?
 
 It’s best to ask them yourself. In my experience, they’re good people, though “good” is a topic for a lengthy discussion. They’re passionate about what they do, often without knowing why. They have ideas and questions and keep searching until they burn out. They hold strong opinions about how people should organize, behave, and work, and often disagree with one another. They discuss, and sometimes they even decide things.
 
-As far as I can tell, they’re human. Not only the mystical geospatial, but exploring movements like [Free Software](https://en.wikipedia.org/wiki/Free_software), [How Python became the language](https://www.youtube.com/watch?v=GfH4QL4VqJ0), and actually the [Internet History](https://www.youtube.com/watch?v=47NRaBVxgVM&t=36s) can help you understand a bit of the spirit here. Freedom itself is a long story — for that, maybe check the history of politics, science, and, for sure, philosophy. Also, as lately refined: psychology, mythology, anthropology, sociology, and, I don't know, economics? There was one more thing. It is a vast topic; I think about it sometimes, randomly, in the toilet or during the shower. Ah, and of course, to understand the geospatial people, geography is a nice domain.
+As far as I can tell, they’re human. Not only the mystical geospatial, but exploring movements like [Free Software](https://en.wikipedia.org/wiki/Free_software), [How Python became the language](https://www.youtube.com/watch?v=GfH4QL4VqJ0), and actually the [Internet History](https://www.youtube.com/watch?v=47NRaBVxgVM&t=36s) can help you understand a bit of the spirit here. I feel the spirit is around the Freedom, and it is a long story — for that, maybe check the history of politics, science, and, for sure, philosophy. Also, as lately refined: psychology, mythology, anthropology, sociology, and, I don't know, economics? There was one more thing. It is a vast topic; I think about it sometimes, randomly, in the toilet or during the shower. Ah, and of course, to understand the geospatial people, geography is a nice domain.
 
 ## Where to start?
 
