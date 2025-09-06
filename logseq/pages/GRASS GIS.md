@@ -1,3 +1,5 @@
+public:: true
+
 - Copied from wiki page to link things to it.
 - **Geographic Resources Analysis Support System** (commonly termed **GRASS GIS**) is a [geographic information system](https://en.wikipedia.org/wiki/Geographic_information_system)
   (GIS) software suite used for geospatial data management and analysis, 

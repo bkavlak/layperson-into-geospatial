@@ -1,3 +1,5 @@
+public:: true
+
 - This is the walk to everything. Everything starts with a walk.
 - [[Books]]
 - [[Blogs]]
