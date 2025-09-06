@@ -11,8 +11,8 @@ This is the space for the talk **“A Layperson Walks into Open Geospatial Clerg
 #### Contents
 - [Introduction](#introduction)
 - [You Probably Don't Know](#you-probably-dont-know)
+- [How and where to ask a question?](#how-and-where-to-ask-a-question)
 - [Material Dump](#material-dump)
-- [More Chapters](#more-chapters)
 
 
 ## Introduction
@@ -26,7 +26,7 @@ This is the space for the talk **“A Layperson Walks into Open Geospatial Clerg
 
 When the wind blows directly on your face or a whistle tickles your ears, do you know what just happened? The Earth rotates on its axis, and things shine as it turns. The leaves might have some idea, or the clouds might lend you a soft mattress to tell the myths of the universe. Some people share stories and tricks; others listen or add to them. Many never even hear these stories, but some won’t stop telling them.
 
-Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not. The clergy have helped me greatly during my self-learning process, and they continue to do so. I wanted to collect some materials along the way that helped me, and maybe will help you as well. I forgot to stress the word "Free" in the talk; looking back, it is a significant difference and should have been "Layperson walk into Free and Open Geospatial Clergy". Anyway, we live between the lines of regrets and actualizations, ignorance and wisdom, and so on. The talk was also just a talk. As I tried to stress in the talk, I'm an average person.
+Free and Open Geospatial Clergy might be another story about things happening — maybe true, maybe not. The clergy have helped me immensely during my self-learning process, and they continue to do so. I wanted to collect some materials along the way that helped me, and maybe will help you as well. I forgot to stress the word "Free" in the talk; looking back, it is a significant difference and should have been "Layperson walk into Free and Open Geospatial Clergy". Anyway, we live between the lines of regrets and actualizations, ignorance and wisdom, and so on. The talk was also just a talk. As I tried to stress in the talk, I'm an average person.
 
 People in the clergy, while being open, also helped me to be free. Free from the reality forcibly constructed around me. Since my childhood, whenever I got stuck in this life questioning myself, my thoughts, my being, my worth, and all other depressive stuff, I scrolled back to the internet and found people like me. I've been scrolling through internet subcultures: forums, underground rap recordings, collaborative hypertext dictionaries specific to Türkiye such as [inci](https://en.wikipedia.org/wiki/%C4%B0nci_S%C3%B6zl%C3%BCk) or [eksi](https://en.wikipedia.org/wiki/Ek%C5%9Fi_S%C3%B6zl%C3%BCk), and of course, later Twitter and Youtube when they were not filled with bullshits. 
 
@@ -40,21 +40,24 @@ As far as I can tell, they’re human. Not only the mystical geospatial, but exp
 
 ## Where to start?
 
-If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, like solving a problem or a case, helped me. However, this is pretty generic advice that you can get everywhere. You also need to build motivation to learn, which can be hard. What motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience.
+If you are like I used to be, quite blank around here, and acknowledging that, it may be good to check some fundamentals from courses. Combining them with some practices, such as solving a problem or a case, or working on a project, helped me. Whenever I do something, I try to make it a little bit better than what I did before, and if I'm motivated, I even iterate over what I did and redo it. However, this is pretty generic advice, and you simply need a motivation to do it. You need to build and keep the motivation to learn, which is really hard in this mad world. What motivated me at that time is a mystery to me. I believe it is more than just working on something; it's about internalizing and becoming what you do. It is a different kind of living experience.
 
-I'm still searching for answers to understand why I do certain things. I'm not sure if these questions can be answered by the same person who is asking. Consciously, I kept pushing the idea of building a character for my low-budget acting self-learning, and it was the "geospatial guy" at that point in my life. I mostly searched to become one of the mellow people out there, sharing stuff for free and freely. So, I started just by imitating and acting. I don't think I did a lot compared to these real mellow people, and I'm just being honest here, not in an imposter syndrome. Even doing some helped me progress quite a lot here and kept me in the [flow](https://en.wikipedia.org/wiki/Flow_(psychology)).
+I'm still searching for answers to understand why I do certain things. I'm not sure if these questions can be answered by the same person who is asking. Mentioned in the talk, I wanted to be an actor, but I couldn't make it a professional life. Consciously, I kept pushing the idea of building a character for my low-budget acting self-learning process while I worked in different jobs, and the "geospatial persona" was the role at that point in my life. I mostly searched to become one of the mellow people out there, sharing stuff for free and freely. So, I started just by imitating and acting. I don't think I did a lot compared to these real mellow people, and I'm just being honest here, not in an imposter syndrome. Even doing some helped me progress quite a lot here and kept me in the [flow](https://en.wikipedia.org/wiki/Flow_(psychology)).
 
-When we talk about learning, we are primarily referring to reaching a point where we have acquired the knowledge we were trying to learn. If we wanna solve the learning puzzle with questions: "How to learn?", "Where to start learning?", "What to learn?" pondering on the question of "What is knowledge?" is interestingly useful. Addressing questions like "What type of knowledge am I trying to get here?" was helpful to me. I found that the cognitive science community has nice answers, such as [Four Kinds of Knowing](https://www.youtube.com/watch?v=TrW3DOIkP78&ab_channel=JohnVervaeke). [Awakening from the Meaning Crisis](https://www.youtube.com/watch?v=ncd6q9uIEdw&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&index=1&ab_channel=JohnVervaeke) is a nice resource that helped me during those times. Not sure how much it would relate to you at this time.
+When we talk about learning, we are primarily referring to reaching a point where we have acquired the knowledge we were trying to learn. If we wanna solve the learning puzzle with questions: "How to learn?", "Where to start learning?", "What to learn?". Pondering on the question of "What is knowledge?" is interestingly useful. Addressing questions like "What type of knowledge am I trying to get here?" was helpful to me. I found that the cognitive science community has nice answers, such as [Four Kinds of Knowing](https://www.youtube.com/watch?v=TrW3DOIkP78&ab_channel=JohnVervaeke). [Awakening from the Meaning Crisis](https://www.youtube.com/watch?v=ncd6q9uIEdw&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&index=1&ab_channel=JohnVervaeke) is a nice resource that helped me during those times to realize certain things about myself and my motivation. I don't know how much it would relate to you at this time, as it doesn't have the same effect on everybody. You need to be in a specific type of mentality to absorb the information thoroughly.
 
 I have always followed the general advice from thousands of years: never assume that you have finished something in life.
 
 ## You Probably Don't Know
 
-If you are not familiar with computer science basics, you may get many concepts wrong. For about 6 months, I thought production code was something related to the factory as I studied business and some operational domains. You probably don't know many concepts and words, or at worst, that you even misinterpret them. It is really wise to check a word, providing the context you are using, such as GIS, to make your research or learning process easier. Knowing that you don't know is the cure, as Socrates taught, as Plato reported. Materials with fundamentals helped me to understand what these people are referring to, both for computer science and geospatial topics.
+If you are not familiar with computer science basics, you may misunderstand many concepts. For about 6 months, I thought production code was something related to the factory as I studied business and some operational domains. You probably don't know many concepts and words, or at worst, you even misinterpret them. It is really wise to check a word, providing the context you are using, such as GIS or geospatial, to make your research or learning process easier. Knowing that you don't know is the cure, as Socrates taught, as Plato reported. Materials with fundamentals helped me to understand what these people are referring to, both for computer science and geospatial topics.
 
-You probably don't know what a coordinate really means in this context. I assume you are familiar with Descartes' innovation of Cartesian coordinates and some geometric stuff. It is not very different here, but a bit different. You need to become familiar with concepts such as *Coordinate Reference Systems*, *Map Projections*, *Vector Data*, *Raster Data*, *Affine Transformation*, and the basics of *what GPS is*. It is not rocket science; just prioritize learning these fundamental concepts, which can be found in courses and many YouTube videos, such as [here](https://www.youtube.com/watch?v=D3tdW9l1690&t=652s&ab_channel=Numberphile).
+You probably don't know what a coordinate really means in this context. I assume you are familiar with Descartes' innovation of Cartesian coordinates and some geometric stuff. It is not very different here, but a bit different. You need to become familiar with concepts such as *Coordinate Reference Systems*, *Map Projections*, *Vector Data*, *Raster Data*, *Affine Transformation*, and the basics of *what GPS is*. It is not rocket science; just prioritize learning these fundamental concepts, which can be found in courses and many fun YouTube videos, such as [here](https://www.youtube.com/watch?v=D3tdW9l1690&t=652s&ab_channel=Numberphile).
 
-I probably don't know what you probably don't know. Jump into the sea and figure it out.
+I probably don't know what you probably don't know. Please tell if you know what you don't know in [discussions](https://github.com/bkavlak/layperson-into-geospatial/discussions) so that we can add up here.
+
+## How and where to ask a question?
+...
 
 ## Material Dump
 
@@ -110,6 +113,8 @@ Contemplate these counsels — maybe while you're in the toilet.
 
 ### Mellow Initiatives
 
+- [GeoChicas](https://www.linkedin.com/company/geochicas/posts/?feedView=all)
+- [Women* in Geospatial](https://www.linkedin.com/company/women-in-geospatial/posts/?feedView=all)
 - [OsGeoLive](https://live.osgeo.org/en/index.html) – A showcase of the full free geospatial tech stack.  
 - [Open Geospatial Solutions](https://github.com/opengeos) – Experience Qiusheng Wu’s work.
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)  
@@ -120,21 +125,25 @@ Contemplate these counsels — maybe while you're in the toilet.
 
 
 ### Tools
-Search everything with the "GIS" keyword, you'll find something. Also search for "free and open", you'll be around here.
+Search everything with the "GIS" keyword; you'll find something. Also, search for "free and open"; you'll find it around here.
 
-#### Daily Usage
+#### Mobile
 - [OsmAnd](https://osmand.net/) or [Organic Maps](https://organicmaps.app/) - Popular apps you can interact with OpenStreetMap on your mobile.
+- [MAPS.ME](https://maps.me/) - Nice interface to OpenStreetMap with better features for lay people.
 - [Every Door](https://every-door.app/) - To update OSM attributes quickly.
-- [Mapillary](https://www.mapillary.com/) - For street-level imagery. Suspicious because it is from Meta but good people work on it. 
+- [Mapillary](https://www.mapillary.com/) - For street-level imagery. 
 
-#### Software
+#### Desktop
 - [QGIS](https://qgis.org) & [QGIS Tutorial](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP)
+- [SNAP](https://step.esa.int/main/download/snap-download/) - Useful for Sentinel1 SAR Processing.
+
+  
+#### Backend-related, data processing libraries with CLI
 - [GDAL](https://gdal.org/en/stable/) - You also have it in QGIS - when you go advance, you'll need to get your hands dirty here.
 - [GRASS](https://grass.osgeo.org/) - You also have it in QGIS - when you wanna go really large scale, you'll need to get your hands dirty here.
 - [OTB](https://www.orfeo-toolbox.org/) - You can add it to QGIS like [here](https://www.youtube.com/watch?v=kPB1lqvZ1II).
 - [SAGA](https://www.youtube.com/watch?v=ceBOzPtQvms) - You can add it to QGIS like [here](https://www.youtube.com/watch?v=ceBOzPtQvms).
-- [SNAP](https://step.esa.int/main/download/snap-download/) - Useful for Sentinel1 SAR Processing.
-- [POSTGIS](https://postgis.net/) - The spatial database that is actually enough for everything but most efficient for the tables.
+- [POSTGIS](https://postgis.net/) - The spatial database that is actually enough for everything, but most efficient for the tables.
 
 
 ### Talks
@@ -163,10 +172,5 @@ There is a lot of stuff around. I like these nowadays.
 
 - [Geo Guess](https://openguessr.com/) & [source](https://github.com/GeoGuess) 
 - [Free Sound Map](https://freesound.org/) & [source](https://github.com/ffont/sound-map-visualizer)
-
-
-## More Chapters
-
-There aren't more chapters.
 
 Made with 🫀 in Berlin. 
