@@ -6,13 +6,13 @@ Amidst this chaotic early youth mantra, I found myself in an agri-tech startup i
 
 After getting the basics from Betül, I did what I've been doing since I was 7 years old: I started to surf the internet alone. My walk started into this clergy of people sharing everything they know with me. Contacted many people on Linkedin, watched Youtube videos, read blogs, never understood PyQGIS, hired by a guy among those people and moved to Berlin, where I started acting after years, attended FOSS4Gs, saw many in-person that I was stalking online, met randomly with people from Yer Çizenler & HOT during a disaster relief, felt some meaning, felt in my nerves deeply that I'm not alone in this shapeless Earth, at least not always.
 
-This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, this information may be useful to you. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere.
+This is the space for the talk **“A Layperson Walks into Open Geospatial Clergy”** at Mostar, FOSS4GE 2025. The recording will hopefully be available here. If you're new to free and open geospatial data, this information may be useful to you. If not, you’re welcome to ask questions or randomly complain in issues or discussions. Talk not only to AI, but also to your Self — just start somewhere. [The limited guide](#the-limited-guide-to-the-galaxy) might be a helpful resource for you.
 
 #### Contents
 - [Introduction](#introduction)
 - [You Probably Don't Know](#you-probably-dont-know)
 - [How and where to ask a question?](#how-and-where-to-ask-a-question)
-- [Material Dump](#material-dump)
+- [The limited guide to the galaxy](#the-limited-guide-to-the-galaxy)
 
 
 ## Introduction
@@ -59,118 +59,12 @@ I probably don't know what you probably don't know. Please tell if you know what
 ## How and where to ask a question?
 ...
 
-## Material Dump
+## The limited guide to the galaxy
 
 You might find these useful to explore. You can also point them to GPT models — they might uncover something better with these. Monks suggest asking for references for everything you hear in this life. After that, it's up to luck or agency to utilize the information.
 
+This information is pretty dispersed on the web sources like Wikipedia, Osgeo Wiki, Grass Wiki, Linkedin posts, used to be around Twitter, and now around Mastodon, conference talks, random GitHub repositories, in the minds of different people. I'm parsing it manually as I find it helpful and putting it here.
+
 Contemplate these counsels — maybe while you're in the toilet.
 
-- [Organizations](#what-is-this-mystical-free-and-open-geospatial-clergy?)  
-- [Books](#Courses)
-- [Courses](#Courses)
-- [Mellow Initiatives](#Mellow-Initiatives)
-- [Tools](#Tools)
-- [Talks](#Talks)
-- [Blogs](#Blogs)
-- [Forums](#Forums)
-- [Fun](#Fun)
-
-### Organizations
-
-#### Non-profit and Collaborative
-- [Free Software Foundation](https://www.fsf.org/) - One of the pioneering communities that drove the history of computer science in general. There is a deep discussion there, the last sentence is my conclusion. Please be sure to eat it at your own caution.
-- [Open Geospatial Foundation](https://www.osgeo.org/) – The organization. Many free and open projects are hosted under OSGeo.  
-- [OpenStreetMap Foundation](https://osmfoundation.org/) – You probably think, "There must be a map," and yes, it’s already in OSM.  
-- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) – A separate organization focused on humanitarian work.
-- [Open Geo Hub](https://opengeohub.org/) – Great summer school programs, freely accessible.
-- [The Group on Earth Observations](https://earthobservations.org/) - Many subdivisions on use cases.
-
-#### Governmental
-- [European Space Agency](https://www.esa.int/) - Enabled a huge market for the citizens of the Earth. Check out the [Copernicus Program](https://www.copernicus.eu/en).
-- [National Aeronautics and Space Administration](https://data.nasa.gov/) - They are not only into space but to the Earth as well.
-
-### Books
-
-- [Spatial Data Science with R](https://r-spatial.org/book/) – Great introduction for the mathematically inclined.  
-- [Geocomputation with R](https://r.geocompx.org/) – Solid foundation if you plan to scale your analysis.  
-- [Geocomputation with Python](https://py.geocompx.org/) – I haven’t checked it, but you get the idea.
-
-### Courses
-
-- [Introduction to GIS](https://www.youtube.com/watch?v=vJAQHA5XQWI&list=PL3MO67NH2XxLAFn3jc7gOhXLD9YFx-oew)  
-- [Introduction to Remote Sensing](https://www.youtube.com/watch?v=YU9XphJqi6k&list=PLnts6bz5xbzEjSVZP40SUiWxOu0IFNp9c)  
-- [Geomindz: Introduction to GIS I – Fundamentals and Mapping](https://www.youtube.com/playlist?list=PLRNNjIk9ArApK4TbmNJQlAsG__VExyRDU)  
-- [Geomindz: Introduction to GIS II – Vector Data Model](https://www.youtube.com/playlist?list=PLRNNjIk9ArAp9SROuOCR1Q7770rJjwfls)  
-- [Geomindz: Introduction to GIS III – Raster Data Model](https://www.youtube.com/playlist?list=PLRNNjIk9ArArvHs7TfXwiKYebXCuCqcgO)  
-- [Digital Image Processing of Remote Sensing Data](https://www.youtube.com/channel/UCXeSBadYoHXWD94zNd5TyMQ/videos)  
-- [Understanding and Using SAR Data – Training 2020](https://hub.jncc.gov.uk/assets/ceffe68b-4f06-4469-aa70-1dc9281c3b1f)  
-- [Introduction to Geostatistics](https://www.youtube.com/watch?v=pxckixOlguA&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ)  
-- [Introduction to GIS Programming](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9) – Epical person.  
-- [Geographic Software Design](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPePd9h8xT_Kc38UP_9GHdbk) – Great for understanding CI/CD tooling in geo-python.  
-- [OpenGeoHub Summer School](https://www.youtube.com/c/OpenGeoHubFoundation/playlists) – Deep material on GIS and Remote Sensing use cases.  
-- [Spatial Ecology](https://spatial-ecology.net/docs/build/html/index.html) – A treasure trove for large dataset computation.
-
-
-### Mellow Initiatives
-
-- [GeoChicas](https://www.linkedin.com/company/geochicas/posts/?feedView=all)
-- [Women* in Geospatial](https://www.linkedin.com/company/women-in-geospatial/posts/?feedView=all)
-- [OsGeoLive](https://live.osgeo.org/en/index.html) – A showcase of the full free geospatial tech stack.  
-- [Open Geospatial Solutions](https://github.com/opengeos) – Experience Qiusheng Wu’s work.
-- [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)  
-- [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)  
-- [Awesome GIS](https://github.com/sshuair/awesome-gis)
-- [Geospatial Glossary](https://www.gov.uk/government/publications/geospatial-glossary/geospatial-glossary)
-- [FOSS4G Academy](https://github.com/FOSS4GAcademy)
-
-
-### Tools
-Search everything with the "GIS" keyword; you'll find something. Also, search for "free and open"; you'll find it around here.
-
-#### Mobile
-- [OsmAnd](https://osmand.net/) or [Organic Maps](https://organicmaps.app/) - Popular apps you can interact with OpenStreetMap on your mobile.
-- [MAPS.ME](https://maps.me/) - Nice interface to OpenStreetMap with better features for lay people.
-- [Every Door](https://every-door.app/) - To update OSM attributes quickly.
-- [Mapillary](https://www.mapillary.com/) - For street-level imagery. 
-
-#### Desktop
-- [QGIS](https://qgis.org) & [QGIS Tutorial](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP)
-- [SNAP](https://step.esa.int/main/download/snap-download/) - Useful for Sentinel1 SAR Processing.
-
-  
-#### Backend-related, data processing libraries with CLI
-- [GDAL](https://gdal.org/en/stable/) - You also have it in QGIS - when you go advance, you'll need to get your hands dirty here.
-- [GRASS](https://grass.osgeo.org/) - You also have it in QGIS - when you wanna go really large scale, you'll need to get your hands dirty here.
-- [OTB](https://www.orfeo-toolbox.org/) - You can add it to QGIS like [here](https://www.youtube.com/watch?v=kPB1lqvZ1II).
-- [SAGA](https://www.youtube.com/watch?v=ceBOzPtQvms) - You can add it to QGIS like [here](https://www.youtube.com/watch?v=ceBOzPtQvms).
-- [POSTGIS](https://postgis.net/) - The spatial database that is actually enough for everything, but most efficient for the tables.
-
-
-### Talks
-
-- [FOSS4G](https://www.youtube.com/@FOSS4G/playlists) - Where the clergy worship on live.
-- [Cloud-Native Geospatial Forum](https://www.youtube.com/@cloudnativegeo/playlists)
-
-
-### Blogs
-
-- [I won't let you pay me for my open source](https://world.hey.com/dhh/i-won-t-let-you-pay-me-for-my-open-source-d7cf4568) - The deep discussion.
-- [What does Overture Maps mean for OpenStreetMap and the future of open source mapping?](https://blog.jawg.io/what-does-overture-maps-mean-for-openstreetmap-and-the-future-of-open-source-mapping/) - Nice to be aware of these delicate lines between the free and open source differences.
-- [Start your Geospatial Career](https://chrieke.medium.com/start-your-geospatial-career-8eaf1a94d047) - Great advices from my friend.
-- [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) - A pessimistic view on the open source business model, which I don't agree with fully.
-- [How to Change an Industry?](https://joemorrison.substack.com/p/how-to-change-an-industry) - Aaa okay, it is one of us just critically thinking.
-
-### Forums
-
-- [GIS StackExchange](https://gis.stackexchange.com/) – Ask reproducible questions and you’ll likely get good answers.  
-- [OpenStreetMap Community Forum](https://community.openstreetmap.org/) - Hot discussions you'll have.
-- [Humanitarian OpenStreetMap Team Slack Channel](https://slack.hotosm.org/) - If you are interested in humanitarian issues, which are quite related to you as you are human, join here.
-
-
-### Fun
-There is a lot of stuff around. I like these nowadays.
-
-- [Geo Guess](https://openguessr.com/) & [source](https://github.com/GeoGuess) 
-- [Free Sound Map](https://freesound.org/) & [source](https://github.com/ffont/sound-map-visualizer)
-
-Made with 🫀 in Berlin. 
+Here you go: https://bkavlak.github.io/layperson-into-geospatial/#/graph
