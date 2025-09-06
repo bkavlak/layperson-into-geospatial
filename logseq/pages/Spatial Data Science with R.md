@@ -1,5 +1,2 @@
-public:: true
-
-- The book is here https://r-spatial.org/book
--
--
+- Great introductions for the mathematically inclined people.
+- Consume it here [r-spatial](https://r-spatial.org/book)

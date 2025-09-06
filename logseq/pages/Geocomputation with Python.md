@@ -1,0 +1,2 @@
+- It is the book including many [[geospatial]] concepts in [[python]]. Solid foundations are covered if you wanna scale your computations.
+- Consume it here [geocomp](https://py.geocompx.org/)

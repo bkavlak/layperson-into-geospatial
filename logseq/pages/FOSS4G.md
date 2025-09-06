@@ -1,0 +1,1 @@
+- Abbrevation for Free and Open Source Software for Geospatial.

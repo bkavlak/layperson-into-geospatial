@@ -1,0 +1,2 @@
+- It is probably used as in the context of [production-level code](https://www.statcan.gc.ca/en/data-science/network/production-level-code). It simply means the code runs on some machine so that users can see their result.
+- Lets ask ChatGPT: [Where does the term production originate in software when people talk about production code?](https://chatgpt.com/share/68bc3ff3-6600-8007-b7f8-54135dbd449c).

@@ -1,4 +1,4 @@
-public:: true
-
 - [[Spatial Data Science with R]]
+- [[Geocomputation with R]]
+- [[Geocomputation with Python]]
 -

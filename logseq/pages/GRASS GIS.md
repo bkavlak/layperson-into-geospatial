@@ -1,12 +1,5 @@
-public:: true
-
-- Copied from wiki page to link things to it.
-- **Geographic Resources Analysis Support System** (commonly termed **GRASS GIS**) is a [geographic information system](https://en.wikipedia.org/wiki/Geographic_information_system)
-  (GIS) software suite used for geospatial data management and analysis, 
-  image processing, producing graphics and maps, spatial and temporal 
-  modeling, and visualizing. It can handle [raster](https://en.wikipedia.org/wiki/Raster_graphics), [topological](https://en.wikipedia.org/wiki/Topological) [vector](https://en.wikipedia.org/wiki/Vector_(geometric)), [image processing](https://en.wikipedia.org/wiki/Image_processing), and [graphic](https://en.wikipedia.org/wiki/Computer_graphics) data.
-- GRASS contains over 350 modules to render maps and images on 
-  monitor and paper; manipulate [[raster]] and [[vector]] data including vector 
-  networks; process multispectral image data; and create, manage, and 
-  store spatial data.
--
+- More decent information is [GRASS GIS](https://en.wikipedia.org/wiki/GRASS_GIS)
+- Abbrevation for Geographic Resources Analysis Support System. It is one of the early GIS software around and quite powerful. You may find it hard to onboard yourself as it is a bit challenging at start. If you deal with large data sets on your local computer, it is quite useful. For [[production]]-like usage, you can struggle. Companies such as [Mundialis](https://www.mundialis.de/en/) provides trainings and consultancy on that if you are highly interested in this software.
+- GRASS contains many modules to render maps and images on  monitor and paper; manipulate [[raster]] and [[vector]] data including vector networks; process multispectral image data; and create, manage, and store spatial data. It has APIs for [[python]] so that you can write scripts but it is not very straightforward.
+- Some Interesting Facts (at least to me):
+	- [[FOSS4G]] used to be a GRASS GIS conference.

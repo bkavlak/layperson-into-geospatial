@@ -1,0 +1,3 @@
+- Abbrevation for Open Source Geospatial Foundation.
+- It is the umbrella organization supporting many projects and organizes great events like [[FOSS4G]]
+- More decent information is **[Open Source Geospatial Foundation](https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation)**. Their website is simple: [osgeo](https://www.osgeo.org)

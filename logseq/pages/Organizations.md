@@ -1,5 +1,5 @@
 public:: true
 
-- [[Open Source Geospatial Foundation]]
+- [[OsGeo]]
 - [[Free Software Foundation]]
 -
