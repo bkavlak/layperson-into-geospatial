@@ -1,0 +1,2 @@
+- Check their [Open Geospatial Consortium](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium) for a decent information.
+-

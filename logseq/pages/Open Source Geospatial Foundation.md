@@ -1,0 +1,8 @@
+- Easy to be confused with [[Open Geospatial Consortium]].
+- The **[Open Source Geospatial Foundation](https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation)** (**OSGeo**), is a [non-profit](https://en.wikipedia.org/wiki/Non-profit) [non-governmental organization](https://en.wikipedia.org/wiki/Non-governmental_organization) whose mission is to support and promote the collaborative development of open [geospatial](https://en.wikipedia.org/wiki/Geospatial) [technologies](https://en.wikipedia.org/wiki/Technology) and data. The foundation was formed in February 2006 to provide financial, organizational and legal support to the broader [Libre/Free](https://en.wikipedia.org/wiki/Free_Software) and [open-source](https://en.wikipedia.org/wiki/Open-source-software_movement) geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources.
+- OSGeo draws governance inspiration from several aspects of the [Apache Foundation](https://en.wikipedia.org/wiki/Apache_Foundation),
+  including a membership composed of individuals drawn from foundation 
+  projects who are selected for membership status based on their active 
+  contribution to foundation projects and governance.
+- The foundation pursues goals beyond software development, such as promoting more [open access](https://en.wikipedia.org/wiki/Open_data) to government produced geospatial data, [FAIR_data](https://en.wikipedia.org/wiki/FAIR_data) geodata, and geodata created and maintained by the [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) project. Education and training are also addressed. Various committees within the foundation work on implementing strategies.
+-
