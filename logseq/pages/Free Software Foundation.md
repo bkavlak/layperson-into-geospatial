@@ -1,1 +1,2 @@
 - This is [the foundation](https://www.fsf.org/) for [[free]] software movement.
+- One of the pioneering communities that drove the history of computer science in general. There is a deep discussion there, the last sentence is my conclusion. Please be sure to eat it at your own caution.
