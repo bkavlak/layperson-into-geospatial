@@ -1,2 +1,2 @@
 - This is the walk to everything I know in [[geospatial]]. Everything starts with a walk. Check the [Graph](https://bkavlak.github.io/layperson-into-geospatial/#/graph).
-- Sometimes you read some [[Books]] or [[Blogs]], follow some [[Courses]] or a thread in [[Forums]]. Sometimes eek for [[Fun]], encounter [[Mellow Initiatives]], [[Organizations]], [[Tools]], or listen to [[Talks]]. We will die but we are all alive. While we are alive, we are the champion.
+- Sometimes you read some [[Books]] or [[Blogs]], follow some [[Courses]] or a thread in [[Forums]]. Sometimes seek for [[Fun]], encounter [[Mellow Initiatives]], [[Organizations]], [[Tools]], or listen to [[Talks]]. We will die, but we are all alive. While we are alive, we are the champions.

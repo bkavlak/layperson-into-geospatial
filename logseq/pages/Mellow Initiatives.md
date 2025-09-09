@@ -1,3 +1,4 @@
-public:: true
-
+- [[Awesome Geospatial Companies]]
+- [[Awesome GIS]]
+- [[Earth Observation Companies & Jobs]]
 -

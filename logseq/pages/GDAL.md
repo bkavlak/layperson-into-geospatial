@@ -1,3 +1,3 @@
-- Check [GDAL](https://en.wikipedia.org/wiki/GDAL) for a decent information.
+- Check [GDAL](https://en.wikipedia.org/wiki/GDAL) for decent information. It is a long discussion about [how you pronounce it](https://soundcloud.com/danabauer/how-do-you-pronounce-gdal).
 - The **Geospatial Data Abstraction [[Library]]** (**GDAL**) is a computer software [library](https://en.wikipedia.org/wiki/Library_(computer_science)) for reading and writing [[raster]] and [[vector]] geospatial data formats. It is the library if you deal especially with imagery. Projections and transformations are supported by the [[PROJ]] library.
 - GDAL was developed mainly by Frank Warmerdam until the release of version 1.3.2, when maintenance was officially transferred to the  GDAL/OGR Project Management Committee under the [[OsGeo]].

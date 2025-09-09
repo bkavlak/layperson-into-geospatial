@@ -1,3 +1,1 @@
-public:: true
-
--
+- [[Start your Geospatial Career]]

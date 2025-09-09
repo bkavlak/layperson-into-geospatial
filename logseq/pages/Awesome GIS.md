@@ -1,0 +1,1 @@
+- An initiative like here listing [things](https://github.com/sshuair/awesome-gis) in GIS.

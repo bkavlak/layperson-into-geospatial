@@ -1,1 +1,2 @@
 - Abbrevation for Free and Open Source Software for Geospatial.
+- You can check out the information for each year on [global site](https://foss4g.org/). I know the European versions are indexed like https://2025.europe.foss4g.org

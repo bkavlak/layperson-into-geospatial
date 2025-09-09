@@ -1,2 +1,2 @@
--
+- The geo spirit is conveyed through great [[Talks]]. Great ones are always in [[FOSS4G]], and you are lucky that they are all online.
 -

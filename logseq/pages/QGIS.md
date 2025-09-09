@@ -1,3 +1,2 @@
-public:: true
-
--
+- Abbreviation of its previous name, Quantum GIS. You can use it for millions of reasons to deal with [[vector]] or [[raster]] data and build maps.
+- [The official website](https://qgis.org/) is pretty neat now. You can find many details there.

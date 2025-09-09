@@ -1,1 +1,1 @@
-- It takes years to understand here.
+- It takes years to understand. We will understand it once we understand ourselves, the Earth, the life on it, the galaxies, and the stars all together.

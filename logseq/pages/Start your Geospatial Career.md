@@ -1,0 +1,1 @@
+- It is by a great friend of mine. Those are [wise words](https://chrieke.medium.com/start-your-geospatial-career-8eaf1a94d047).

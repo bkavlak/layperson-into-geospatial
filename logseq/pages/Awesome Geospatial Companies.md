@@ -1,0 +1,1 @@
+- A nice resource for listing [geo companies](https://github.com/chrieke/awesome-geospatial-companies).
