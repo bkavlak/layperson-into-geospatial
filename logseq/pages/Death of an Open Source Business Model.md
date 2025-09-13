@@ -1,0 +1,1 @@
+- [A pessimistic view](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) on the open source business model, which I don't agree with fully. It has nice gists to understand the business tension around here.

@@ -1,0 +1,2 @@
+- Abbreviation for European Space Agency. You get a lot of data from here. Of course, you'll get lost on [their website](https://www.esa.int/). It's normal because they are huge and bureaucrats.
+- You'll find [[Copernicus Program]] better and easier. It is the reason for many activations around here. We should be really thankful for this.

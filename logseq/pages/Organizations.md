@@ -1,3 +1,9 @@
 - [[OsGeo]]
 - [[Free Software Foundation]]
+- [[OpenStreetMap Foundation]]
+- [[Humanitarian OpenStreetMap Team]]
+- [[Open Geo Hub]]
+- [[The Group on Earth Observations]]
+- [[ESA]]
+- [[NASA]]
 -

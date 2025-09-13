@@ -1,0 +1,1 @@
+- [Nice article](https://blog.jawg.io/what-does-overture-maps-mean-for-openstreetmap-and-the-future-of-open-source-mapping/) to be aware of the delicate lines between the free and open source differences, and the mutual benefits among the open source communities and the businesses.

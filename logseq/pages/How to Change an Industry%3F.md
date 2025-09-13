@@ -1,0 +1,1 @@
+- I find this level of [critical thinking](https://joemorrison.substack.com/p/how-to-change-an-industry) is one of the elements in the spirit around here.

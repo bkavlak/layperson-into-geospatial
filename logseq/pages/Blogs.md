@@ -1,1 +1,4 @@
 - [[Start your Geospatial Career]]
+- [[Death of an Open Source Business Model]]
+- [[How to Change an Industry?]]
+- [[What does Overture Maps mean for OpenStreetMap and the future of open source mapping?]]
