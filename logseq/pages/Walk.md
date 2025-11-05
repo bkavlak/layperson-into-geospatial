@@ -1,4 +1,4 @@
 - This is the walk to everything I know in [[geospatial]]. Everything starts with a walk. Check the [Graph](https://bkavlak.github.io/layperson-into-geospatial/#/graph).
-- Sometimes you read some [[Books]] or [[Blogs]], follow some [[Courses]] or a thread in [[Forums]]. Sometimes seek for [[Fun]], encounter [[Mellow Initiatives]], [[Organizations]], [[Tools]], or listen to [[Talks]]. We will die, but we are all alive. While we are alive, we are the champions.
-- *[veni, vidi, vici!](https://tr.wikipedia.org/wiki/Veni,_vidi,_vici)*
+- Sometimes you read some [[Books]] or [[Blogs]], follow some [[Courses]] or a thread in [[Forums]]. Sometimes seek for [[Fun]], encounter [[Mellow Initiatives]], [[Organizations]], [[Tools]], or listen to [[Talks]]. Sometimes people tell you [[How to do]] We will die, but we are all alive. While we are alive, we are the champions.
+- *[veni, vidi, vici!](https://en.wikipedia.org/wiki/Veni,_vidi,_vici)*
 - ![bild-aus-chatgpt.png](../assets/bild-aus-chatgpt_1757764145129_0.png)
