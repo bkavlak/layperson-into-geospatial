@@ -59,7 +59,9 @@ You probably don't know what a coordinate really means in this context. I assume
 I probably don't know what you probably don't know. Please tell if you know what you don't know in [discussions](https://github.com/bkavlak/layperson-into-geospatial/discussions) so that we can add up here.
 
 ## How and where to ask a question?
-...
+You have many AI tools nowadays, but the idea of asking a good question remains the same. [gis.stackexchange.com](https://gis.stackexchange.com) is always the best in my opinion to ask a real person. You can follow [Stack Exchange how to ask guide](https://stackoverflow.com/help/how-to-ask). To ask a good question of AI has different subtleties nowadays. Check some prompt engineering videos on YouTube.
+
+Otherwise, I felt welcome by anyone I reached out to privately if I put effort into my research and questions. You should be really aware that you are spending the most valuable thing in this life for a person when you say something, which is time. If you could get conscious about this fact, you'll find out how to approach any person in life. Lower your expectations and be happy.
 
 ## The limited guide to the galaxy
 
